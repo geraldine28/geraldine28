@@ -23,7 +23,7 @@ Python | R | SQL | Git | Jupyter | Quarto | Shiny | SAS |
 
 | Project | Description |
 |--------|-------------|
-| [Early Warning Model](https://github.com/YOUR_USERNAME/nutrition-forecast-model) | An early warning model for the risk of significant forced displacement |
+| [Early Warning Model](https://github.com/geraldine28/EarlyWarning) | An early warning model for the risk of significant forced displacement |
 
 ---
 
