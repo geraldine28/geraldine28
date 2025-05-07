@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Geraldine
 
-<!--
-**geraldine28/geraldine28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data and social scientist focused on predictive analytics in the spatiotemporal realm, currently working at a UNHCR. Over the past years, I've built and led data science work in settings where evidence-based decision-making can truly save lives.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Do
+
+- 📈 Build predictive models for humanitarian, development, and climate change contexts  
+- 🧠 Translate complex data into tangible insights for colleagues and partners  
+- 🛠️ Work with Python, R, SQL, and cloud tools like AWS & Azure  
+- 🤝 Collaborate with survey teams, economists, and academic partners  
+
+---
+
+## 🧰 Tools & Languages
+
+Python | R | SQL | Git | Jupyter | Quarto | Shiny | SAS |
+
+---
+
+## 📊 Selected Projects
+
+| Project | Description |
+|--------|-------------|
+| [Early Warning Model](https://github.com/YOUR_USERNAME/nutrition-forecast-model) | An early warning model for the risk of significant forced displacement |
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 [geraldine.henningsen@proton.me]
+- 🌍 [https://www.linkedin.com/in/henningsen-geraldine/]
+  
+
+---
+
